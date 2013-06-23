@@ -3,8 +3,7 @@
 
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/semc/msm7x30
-TARGET_KERNEL_CONFIG := cm_anzu_defconfig
-TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.4.3
+TARGET_KERNEL_CONFIG := ad_anzu_defconfig
 
 # Recovery
 TARGET_RECOVERY_INITRC := device/semc/anzu/recovery/init.rc
